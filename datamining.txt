@@ -1,0 +1,5 @@
+1. https://drive.google.com/file/d/1Pmoy2W10gdT099H3WIYW5VA2BDoVf3tR/view?usp=sharing
+2. Social Network Analysis
+3. Brandon Byrne
+4. https://github.com/lostangles/datamining
+5. A presentation on how using Social Network Analysis (SNA) and metadata, you can discover powerful information about groups and people.
